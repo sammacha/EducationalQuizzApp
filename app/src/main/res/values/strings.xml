@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">QuizzAppProject</string>
+    <string name="correct_answers">CORRECT ANSWERS</string>
+    <string name="your_score">YOUR SCORE</string>
+    <string name="question_one_java">Question One : JAVA</string>
+    <string name="question_two_skip">Question two : SKIP</string>
+    <string name="question_three_int">Question Three : Int/String</string>
+    <string name="question_four_true">Question four : True</string>
+    <string name="question_five_object">Question Five : Object</string>
+    <string name="play_again">Play again</string>
+    <string name="heading">Please answer the following simple questions</string>
+    <string name="quizz_one">1. Which language is used in android development?</string>
+    <string name="quizz_two">2. Which of the following is a java Keyword?</string>
+    <string name="quizz_three">3. Which of the following is a data type in java?</string>
+    <string name="quizz_four">4. Java is an object oriented programming language</string>
+    <string name="quizz_five">5. Which of the following is an instance of a class?</string>
+    <string name="string_ans">String</string>
+    <string name="image_ans">Image</string>
+    <string name="return_ans">return</string>
+    <string name="int_ans">Int</string>
+    <string name="skip_ans">skip</string>
+    <string name="new_ans">New</string>
+    <string name="use_caseans">Use Case</string>
+    <string name="false_ans">False</string>
+    <string name="true_ans">true</string>
+    <string name="string_ans1">string</string>
+    <string name="method_ans">method</string>
+    <string name="object_ans">object</string>
+    <string name="submit_button">Submit</string>
+    <string name="you_answer_one">you answer</string>
+    <string name="default_score">0</string>
+</resources>
